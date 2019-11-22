@@ -7,7 +7,7 @@ The UI design is essentially a copy of of the Rijksmuseum's [Rijksstudio](https:
 My goals for this prototype are:
 
 - [X] Get a working, interactive application up and running with React
-- [X] Fetch data from CONTENTdm's IIIF API and render it dynamically, responsibily, and accessibly in the UI
+- [X] Fetch data from CONTENTdm's IIIF API and render it dynamically, responsively, and accessibly in the UI
 - [ ] Integrate the [Leaflet.js](https://leafletjs.com/) library to allow image zoom and interactivity with the images from the API
 - [ ] Add a small "like" feature for each image that allows users to like and share items they find from the collection
 
