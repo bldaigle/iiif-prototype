@@ -1,3 +1,21 @@
+## CONTENTdm IIIF Prototype
+
+This is a project I'm working on to learn more about the IIIF Standard and OCLC's implementation of the IIIF Image and Presentation APIs in CONTENTdm while also learning more about React in the process.
+
+The UI design is essentially a copy of of the Rijksmuseum's [Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio/subjects/shepherds-and-shepherdesses) project.
+
+My goals for this prototype are:
+
+- [X] Get a working, interactive application up and running with React
+- [X] Fetch data from CONTENTdm's IIIF API and render it dynamically, responsibily, and accessibly in the UI
+- [ ] Integrate the [Leaflet.js](https://leafletjs.com/) library to allow image zoom and interactivity with the images from the API
+- [ ] Add a small "like" feature for each image that allows users to like and share items they find from the collection
+
+The following is boilerplate documentation from the Create React App library which can be a helpful reminder of how to get the app running once cloned to a local machine.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
