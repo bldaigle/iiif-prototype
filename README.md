@@ -1,5 +1,7 @@
 ## CONTENTdm IIIF Prototype
 
+The prototype is available at https://bendaigle.com/iiif
+
 This is a project I'm working on to learn more about the IIIF Standard and OCLC's implementation of the IIIF Image and Presentation APIs in CONTENTdm while also learning more about React in the process.
 
 The UI design is essentially a copy of of the Rijksmuseum's [Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio/subjects/shepherds-and-shepherdesses) project.
